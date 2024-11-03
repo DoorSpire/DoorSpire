@@ -8,7 +8,7 @@ best programming language: C
 
 programming languages i use:
 
-![image](https://github.com/user-attachments/assets/3535a7cb-56f6-4b98-adb9-bdeffd97a0ca)
+![image]()
 
 
 <!---
